@@ -102,3 +102,5 @@ ENV/
 
 #django db
 db.sqlite3
+#django settings
+settings.py
